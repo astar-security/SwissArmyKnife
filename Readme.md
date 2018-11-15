@@ -1,6 +1,6 @@
 # Exploit
-## Trough PDF
-https://blog.didierstevens.com/programs/pdf-tools/
+## JS in PDF
+https://acrobatusers.com/tutorials/author/parker
 
 # Translate/Convert
 ## English to other languages
