@@ -1,3 +1,7 @@
+# OSINT
+## DNS
+https://dnsdumpster.com/
+
 # Exploit
 ## JS in PDF
 https://acrobatusers.com/tutorials/author/parker
