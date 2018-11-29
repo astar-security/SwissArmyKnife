@@ -2,6 +2,15 @@
 ## DNS
 https://dnsdumpster.com/
 
+# Scan
+
+## Port information
+from service to port:  
+https://github.com/ncrocfer/whatportis
+
+from port to service:  
+https://www.speedguide.net/port.php?port=139
+
 # Exploit
 ## JS in PDF
 http://bililite.com/blog/2012/06/06/adding-javascript-to-pdf-files/  
