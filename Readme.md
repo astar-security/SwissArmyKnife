@@ -23,6 +23,9 @@ https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html
 ## Fly
 https://ulysse.travel/  
 
+## Car rent
+https://mytripcar.fr  
+
 # Translate/Convert
 ## English to other languages
 https://www.deepl.com/translator
