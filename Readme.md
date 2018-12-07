@@ -13,7 +13,8 @@ https://www.speedguide.net/port.php?port=139
 
 # Exploit
 ## Payload
-https://github.com/swisskyrepo/PayloadsAllTheThings
+https://github.com/swisskyrepo/PayloadsAllTheThings  
+https://github.com/gwen001/bb-reports-templates  
 
 ## JS in PDF
 http://bililite.com/blog/2012/06/06/adding-javascript-to-pdf-files/  
