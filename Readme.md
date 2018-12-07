@@ -12,6 +12,9 @@ from port to service:
 https://www.speedguide.net/port.php?port=139
 
 # Exploit
+## Payload
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
 ## JS in PDF
 http://bililite.com/blog/2012/06/06/adding-javascript-to-pdf-files/  
 https://acrobatusers.com/tutorials/author/parker
