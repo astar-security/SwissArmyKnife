@@ -30,6 +30,9 @@ https://ulysse.travel/
 ## Car rent
 https://mytripcar.fr  
 
+## Hostel
+https://www.hoteltonight.com/fr/  
+
 # Report
 ## VulnDB
 https://github.com/vulndb/data/tree/master/db/en
