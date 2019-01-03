@@ -49,6 +49,11 @@ Upload pdf on gdrive
 select open with Google Doc (then the google OCR convert it)  
 select export in docx  
 
+# Picture
+## Edit
+Remove background : https://www.remove.bg/  
+Online photoshoplike: https://www.photopea.com/  
+
 # FOOD
 
 ## Bordeaux
