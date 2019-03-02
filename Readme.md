@@ -23,6 +23,10 @@ https://acrobatusers.com/tutorials/author/parker
 ## AWS
 https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html
 
+# Remediate
+Basic guidelines:   
+https://watchyourhack.com/  
+
 # Travel
 ## Fly
 https://ulysse.travel/  
