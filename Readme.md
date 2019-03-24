@@ -16,6 +16,9 @@ https://www.speedguide.net/port.php?port=139
 https://github.com/swisskyrepo/PayloadsAllTheThings  
 https://github.com/gwen001/bb-reports-templates  
 
+## SQL
+http://sqlfiddle.com  
+
 ## JS in PDF
 http://bililite.com/blog/2012/06/06/adding-javascript-to-pdf-files/  
 https://acrobatusers.com/tutorials/author/parker
@@ -28,6 +31,8 @@ Basic guidelines:
 https://watchyourhack.com/  
 
 VPN: https://github.com/trailofbits/algo  
+  
+CIS: https://downloads.cisecurity.org/?bypassToken=ZwRRgWdk3kthZHKCxDy4jezb1HVD3LWt#/  
 
 # Travel
 ## Fly
