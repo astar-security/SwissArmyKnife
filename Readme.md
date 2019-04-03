@@ -65,6 +65,9 @@ select export in docx
 Remove background : https://www.remove.bg/  
 Online photoshoplike: https://www.photopea.com/  
 
+# Design
+Colors: https://colorhunt.co/palette/2763  
+
 # FOOD
 
 ## Bordeaux
