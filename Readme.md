@@ -11,6 +11,9 @@ https://github.com/ncrocfer/whatportis
 from port to service:  
 https://www.speedguide.net/port.php?port=139
 
+# Bruteforce
+https://github.com/BlackArch/wordlistctl  
+
 # Exploit
 ## Payload
 https://github.com/swisskyrepo/PayloadsAllTheThings  
