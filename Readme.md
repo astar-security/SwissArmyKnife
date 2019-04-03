@@ -13,6 +13,7 @@ https://www.speedguide.net/port.php?port=139
 
 # Bruteforce
 https://github.com/BlackArch/wordlistctl  
+https://github.com/digininja/SecLists  
 
 # Exploit
 ## Payload
