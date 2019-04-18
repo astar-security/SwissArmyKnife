@@ -35,6 +35,7 @@ https://www.rebootuser.com/?page_id=1721#.V7SQiLNaGlO
 https://www.exploit-db.com/papers/33930  
 https://www.hackingarticles.in/linux-privilege-escalation-using-exploiting-sudo-rights/  
 https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux  
+https://artkond.com/2017/03/23/pivoting-guide/  
 
 # Remediate
 Basic guidelines:   
