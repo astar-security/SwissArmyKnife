@@ -32,6 +32,7 @@ https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html
 
 ## PrivEsc, Loot, Pivoting
 https://www.rebootuser.com/?page_id=1721#.V7SQiLNaGlO  
+https://www.exploit-db.com/papers/33930  
 
 # Remediate
 Basic guidelines:   
