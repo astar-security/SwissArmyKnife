@@ -34,6 +34,7 @@ https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html
 https://www.rebootuser.com/?page_id=1721#.V7SQiLNaGlO  
 https://www.exploit-db.com/papers/33930  
 https://www.hackingarticles.in/linux-privilege-escalation-using-exploiting-sudo-rights/  
+https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux  
 
 # Remediate
 Basic guidelines:   
