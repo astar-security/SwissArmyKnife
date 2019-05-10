@@ -1,8 +1,8 @@
 # OSINT
 https://censys.io  
-
-## DNS
-https://dnsdumpster.com/
+https://darksearch.io  
+https://toolbar.netcraft.com/site_report  
+https://dnsdumpster.com/  
 
 # Scan
 
