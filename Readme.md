@@ -21,6 +21,7 @@ https://github.com/danielmiessler/SecLists
 ## Payload
 https://github.com/swisskyrepo/PayloadsAllTheThings  
 https://github.com/gwen001/bb-reports-templates  
+https://github.com/samratashok/nishang  
 
 ## Reverse
 https://beta.hackndo.com/buffer-overflow/  
