@@ -84,6 +84,8 @@ Online photoshoplike: https://www.photopea.com/
 
 # Design
 Colors: https://colorhunt.co/palette/2763  
+Donner un nom: http://www.dotomator.com/web20.html  
+
 
 # FOOD
 
