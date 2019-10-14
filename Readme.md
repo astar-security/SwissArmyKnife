@@ -81,6 +81,8 @@ select export in docx
 ## Edit
 Remove background : https://www.remove.bg/  
 Online photoshoplike: https://www.photopea.com/  
+Perdre 1000 ans: https://zoomquilt.org/  
+créer comic 3 cases: http://www.stripcreator.com/make.php  
 
 # Design
 Colors: https://colorhunt.co/palette/2763  
