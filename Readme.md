@@ -42,6 +42,7 @@ https://www.exploit-db.com/papers/33930
 https://www.hackingarticles.in/linux-privilege-escalation-using-exploiting-sudo-rights/  
 https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux  
 https://artkond.com/2017/03/23/pivoting-guide/  
+https://www.kitploit.com/2019/11/uptux-linux-privilege-escalation-checks.html  
 
 # Remediate
 Basic guidelines:   
