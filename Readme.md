@@ -85,6 +85,9 @@ Online photoshoplike: https://www.photopea.com/
 Perdre 1000 ans: https://zoomquilt.org/  
 créer comic 3 cases: http://www.stripcreator.com/make.php  
 
+## Ascii Art
+https://www.text-image.com/convert/ascii.html
+
 # Design
 Colors: https://colorhunt.co/palette/2763  
 Donner un nom: http://www.dotomator.com/web20.html  
