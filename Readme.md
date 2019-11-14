@@ -84,9 +84,10 @@ Remove background : https://www.remove.bg/
 Online photoshoplike: https://www.photopea.com/  
 Perdre 1000 ans: https://zoomquilt.org/  
 créer comic 3 cases: http://www.stripcreator.com/make.php  
+bank: https://www.freepik.com  
 
 ## Ascii Art
-https://www.text-image.com/convert/ascii.html
+https://www.text-image.com/convert/ascii.html  
 
 # Design
 Colors: https://colorhunt.co/palette/2763  
