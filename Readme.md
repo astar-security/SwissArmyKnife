@@ -79,6 +79,9 @@ select open with Google Doc (then the google OCR convert it)
 select export in docx  
 
 # Picture
+## Free banks
+pixabay
+
 ## Edit
 Remove background : https://www.remove.bg/  
 Online photoshoplike: https://www.photopea.com/  
