@@ -45,6 +45,9 @@ https://artkond.com/2017/03/23/pivoting-guide/
 https://www.kitploit.com/2019/11/uptux-linux-privilege-escalation-checks.html  
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite  
 
+### SSH, SOCKS, bind/reverse, ...
+https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/   
+
 # Remediate
 Basic guidelines:   
 https://watchyourhack.com/  
