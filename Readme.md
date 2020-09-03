@@ -84,7 +84,8 @@ select export in docx
 
 # Picture
 ## Free banks
-pixabay
+pixabay  
+https://www.vectorstock.com/
 
 ## Edit
 Remove background : https://www.remove.bg/  
@@ -124,3 +125,5 @@ Le Sistrot - 53 Boulevard Amiral de Kerguélen, 29000 Quimper
 Saint-Jacques - 8 Rue de l'Autan, 31670 Labège  
 Mast Braise et Vin - 52 Avenue de la Mairie, 31750 Escalquens  
 Les Tilleuls - 34 Avenue du cimetière, 31500 Toulouse  
+Prima Lova - 1 Place de la Bourse, 31000 Toulouse  
+Toroya Rolls - 42 Rue Pargaminières, 31000 Toulouse
